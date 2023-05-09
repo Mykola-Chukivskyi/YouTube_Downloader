@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+D:/Проект[[:space:]]Миколи/YTD[[:space:]](YouTube[[:space:]]Downloader) filter=lfs diff=lfs merge=lfs -text
